@@ -39,3 +39,10 @@ class Solution:
                 num = num // 10
             num = total
         return num
+
+# Take the number num.
+# Check if num has more than one digit.
+# If yes, find the sum of its digits.
+# Replace num with that sum.
+# Repeat until num becomes a single digit.
+# Return num.
